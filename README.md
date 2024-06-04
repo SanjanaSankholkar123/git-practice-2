@@ -1,2 +1,2 @@
-# git-practice-2
+# git-practice-2 minor update
 Practicing git again lol
